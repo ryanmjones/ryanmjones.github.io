@@ -15,5 +15,14 @@
   align-items: center;
 }
 
+.jumbotron {
+  position: relative;
+  background:  url("../img/jumbo-background.jpg");
+  background-position: center;
+  height: 1000px;
+  background-size: cover;
+  overflow: hidden;
+}
+
 font-family: 'Ubuntu', sans-serif;
 font-family: 'Telex', sans-serif;
