@@ -6,12 +6,12 @@
   color: #f00000;
   font-size: 18px;
   font-weight: bold;
-  padding: 14px 10px;
-  vertical-align: middle;
 }
 
 .navbar li {
   display: inline;
+  vertical-align: middle;
+  align-items: center;
 }
 
 font-family: 'Ubuntu', sans-serif;
