@@ -1,10 +1,10 @@
 .navbar {
-  color: #0499f4;
+  background: #007ecc;
 }
 
 .navbar a {
   color: #04caf4;
-  font-size: 23px;
+  font-size: 18px;
   font-weight: bold;
   padding: 14px 10px;
   text-transform: uppercase;
