@@ -55,6 +55,7 @@ footer a {
   .jumbotron {
     background: url("../img/1.jpg");
     background-position: center;
+    width: auto;
 	}
   .jumbotron h1 {
     color: #3a46f2;
