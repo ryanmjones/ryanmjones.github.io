@@ -1,9 +1,9 @@
 .navbar {
-  background: #f00000;
+  background: #007ecc;
 }
 
 .navbar a {
-  color: #007ecc;
+  color: #fff;
   font-size: 23px;
   font-weight: bold;
   padding: 14px 10px 10px 10px;
