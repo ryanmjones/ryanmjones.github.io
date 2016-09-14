@@ -1,3 +1,7 @@
+.navbar {
+  color: #0499f4;
+}
+
 .navbar a {
   color: #04caf4;
   font-size: 23px;
@@ -8,7 +12,6 @@
 
 .navbar li {
   display: inline;
-  font-family: 'Telex', sans-serif;
 }
 
 font-family: 'Ubuntu', sans-serif;
