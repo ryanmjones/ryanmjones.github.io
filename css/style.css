@@ -1,31 +1,68 @@
-.navbar {
-  background: #007ecc;
+.nav {
+  background: #91bdce;
+  height: 50px;
 }
 
-.navbar a {
+.nav a {
   color: #fff;
   font-size: 23px;
   font-weight: bold;
   padding: 14px 10px 10px 10px;
 }
 
-.navbar li {
+.nav li {
   display: inline;
-  vertical-align: middle;
-  align-items: center;
 }
 
 .jumbotron {
   position: relative;
-  background:  url("../img/jumbo-background.jpg");
+  background: url("../img/jumbo-background.jpg");
   background-position: center;
   height: 1000px;
+  width: auto;
   background-size: cover;
   overflow: hidden;
 }
 
 .jumbotron h1 {
+  color: #91bdce;
+}
+
+footer {
+  background: #91bdce;
+  height: 100px;
+  font-weight: bold;
+	text-align: center;
+  padding-top: 20px;
+	margin-top: 20px;
+}
+
+footer li {
+  display: inline;
+}
+
+footer a {
   color: #fff;
+  font-size: 50px;
+  font-weight: bold;
+  padding: 14px 10px 10px 10px;
+}
+
+@media (max-width: 650px) {
+  .nav {
+    background: #3a46f2;
+  }
+  .jumbotron {
+    background: url("../img/1.jpg");
+    background-position: center;
+	}
+  .jumbotron h1 {
+    color: #3a46f2;
+  }
+
+  footer {
+    background: #3a46f2;
+  }
 }
 
 font-family: 'Ubuntu', sans-serif;
