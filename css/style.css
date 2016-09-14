@@ -24,5 +24,9 @@
   overflow: hidden;
 }
 
+.jumbotron h1 {
+  color: #fff;
+}
+
 font-family: 'Ubuntu', sans-serif;
 font-family: 'Telex', sans-serif;
