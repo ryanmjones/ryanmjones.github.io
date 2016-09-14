@@ -3,12 +3,11 @@
 }
 
 .navbar a {
-  color: #ff0606;
+  color: #f00000;
   font-size: 18px;
   font-weight: bold;
   padding: 14px 10px;
-  -ms-align-items: center;
-  align-items: center;
+  vertical-align: middle;
 }
 
 .navbar li {
