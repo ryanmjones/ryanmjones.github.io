@@ -66,5 +66,23 @@ footer a {
   }
 }
 
+@media (max-width: 200px) {
+  .nav {
+    background: #3a46f2;
+  }
+  .jumbotron {
+    background: #fff;
+    background-position: center;
+    width: auto;
+	}
+  .jumbotron h1 {
+    color: #3a46f2;
+  }
+
+  footer {
+    background: #3a46f2;
+  }
+}
+
 font-family: 'Ubuntu', sans-serif;
 font-family: 'Telex', sans-serif;
