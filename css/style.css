@@ -56,6 +56,11 @@ footer a {
   .nav {
     background: #4281EC;
   }
+
+  .nav li {
+    font-size: 10px;
+  }
+
   .jumbotron {
     background: url("../img/1.jpg");
     background-position: center;
@@ -63,6 +68,7 @@ footer a {
     background-size: cover;
     overflow: hidden;
 	}
+  
   .jumbotron h1 {
     color: #4281EC;
   }
@@ -74,6 +80,10 @@ footer a {
   footer {
     background: #4281EC;
   }
+
+  footer .fa {
+    font-size: 0.5em;
+  }
 }
 
 @media (max-width: 640px) {
@@ -82,6 +92,11 @@ footer a {
     height: auto;
     width: auto;
   }
+
+  .nav li {
+    font-size: 10px;
+  }
+
   .jumbotron {
     background: url("../img/2.jpg");
     background-position: center;
@@ -101,6 +116,10 @@ footer a {
     background: #4281EC;
     height: auto;
     width: auto;
+  }
+
+  footer .fa {
+    font-size: 0.5em;
   }
 }
 
