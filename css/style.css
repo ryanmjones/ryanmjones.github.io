@@ -60,6 +60,7 @@ footer a {
     background: url("../img/1.jpg");
     background-position: center;
     width: auto;
+    overflow: hidden;
 	}
   .jumbotron h1 {
     color: #4281EC;
@@ -84,6 +85,7 @@ footer a {
     background: url("../img/1.jpg");
     background-position: center;
     width: auto;
+    overflow: hidden;
 	}
   .jumbotron h1 {
     color: #4281EC;
