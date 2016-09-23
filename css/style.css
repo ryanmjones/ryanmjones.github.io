@@ -59,6 +59,7 @@ footer a {
 
   .nav li {
     font-size: 10px;
+    display: inline;
   }
 
   .jumbotron {
@@ -82,7 +83,7 @@ footer a {
   }
 
   footer .fa {
-    font-size: 2.5em;
+    font-size: 0.75em;
   }
 }
 
@@ -95,6 +96,7 @@ footer a {
 
   .nav li {
     font-size: 3px;
+    display: inline;
   }
 
   .jumbotron {
