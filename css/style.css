@@ -1,5 +1,5 @@
 .nav {
-  background: #91bdce;
+  background: #4281EC;
   height: 50px;
 }
 
@@ -25,15 +25,15 @@
 }
 
 .jumbotron h1 {
-  color: #91bdce;
+  color: #4281EC;
 }
 
 .jumbotron h2 {
-  color: #91bdce;
+  color: #4281EC;
 }
 
 footer {
-  background: #91bdce;
+  background: #4281EC;
   height: 100px;
   font-weight: bold;
 	text-align: center;
@@ -54,7 +54,7 @@ footer a {
 
 @media (max-width: 900px) {
   .nav {
-    background: #3a46f2;
+    background: #4281EC;
   }
   .jumbotron {
     background: url("../img/1.jpg");
@@ -62,31 +62,39 @@ footer a {
     width: auto;
 	}
   .jumbotron h1 {
-    color: #3a46f2;
+    color: #4281EC;
+  }
+
+  .jumbotron h2 {
+    color: #4281EC;
   }
 
   footer {
-    background: #3a46f2;
+    background: #4281EC;
   }
 }
 
 @media (max-width: 640px) {
   .nav {
-    background: #3a46f2;
+    background: #4281EC;
     height: auto;
     width: auto;
   }
   .jumbotron {
-    background: #fff;
+    background: url("../img/1.jpg");
     background-position: center;
     width: auto;
 	}
   .jumbotron h1 {
-    color: #3a46f2;
+    color: #4281EC;
+  }
+
+  .jumbotron h2 {
+    color: #4281EC;
   }
 
   footer {
-    background: #3a46f2;
+    background: #4281EC;
     height: auto;
     width: auto;
   }
