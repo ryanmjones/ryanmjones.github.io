@@ -60,6 +60,7 @@ footer a {
     background: url("../img/1.jpg");
     background-position: center;
     width: auto;
+    background-size: cover;
     overflow: hidden;
 	}
   .jumbotron h1 {
@@ -85,6 +86,7 @@ footer a {
     background: url("../img/1.jpg");
     background-position: center;
     width: auto;
+    background-size: cover;
     overflow: hidden;
 	}
   .jumbotron h1 {
