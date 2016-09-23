@@ -62,11 +62,6 @@ footer a {
     width: auto;
     background-size: cover;
     overflow: hidden;
-    -webkit-transform: rotate(90deg);
-    -moz-transform: rotate(90deg);
-    -ms-transform: rotate(90deg);
-    -o-transform: rotate(90deg);
-    transform: rotate(90deg);
 	}
   .jumbotron h1 {
     color: #4281EC;
@@ -93,11 +88,6 @@ footer a {
     width: auto;
     background-size: cover;
     overflow: hidden;
-    -webkit-transform: rotate(0deg);
-    -moz-transform: rotate(0deg);
-    -ms-transform: rotate(0deg);
-    -o-transform: rotate(0deg);
-    transform: rotate(0deg);
 	}
   .jumbotron h1 {
     color: #4281EC;
