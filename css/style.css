@@ -1,6 +1,7 @@
 .nav {
   background: #4281EC;
   height: 50px;
+  text-align: justify;
 }
 
 .nav a {
@@ -32,13 +33,31 @@
   color: #4281EC;
 }
 
+.thumbnail h2 {
+  text-align: center;
+}
+
+.thumbnail p {
+  text-align: center;
+}
+
+#bio {
+  text-align: center;
+}
+
 footer {
   background: #4281EC;
-  height: 100px;
+  height: 200px;
   font-weight: bold;
 	text-align: center;
   padding-top: 20px;
 	margin-top: 20px;
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+}
+
+footer h2 {
+  color: #fff;
 }
 
 footer li {
