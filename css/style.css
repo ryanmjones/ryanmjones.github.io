@@ -12,6 +12,8 @@
 .navbar .navbar-brand > i {
   color: #fff;
   font-weight: bold;
+  font-size: 23px;
+  padding: 14px 10px 10px 10px;
 }
 
 .nav a {
