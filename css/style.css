@@ -9,10 +9,9 @@
   color: #fff;
 }
 
-.navbar-header .navbar-brand > i {
+.navbar-header {
   color: #fff;
   font-weight: bold;
-  font-size: 23px;
 }
 
 .nav a {
